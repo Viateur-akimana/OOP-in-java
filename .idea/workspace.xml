@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b22707-6fbc-46de-b6b5-02a90641df0b" name="Changes" comment="This is initial commit" />
+    <list default="true" id="03b22707-6fbc-46de-b6b5-02a90641df0b" name="Changes" comment="This is initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +30,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "oopjava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/home/akimana/IdeaProjects/OOP/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697106667492</updated>
-      <workItem from="1697106668475" duration="1643000" />
+      <workItem from="1697106668475" duration="3616000" />
     </task>
     <task id="LOCAL-00001" summary="This is initial commit">
       <option name="closed" value="true" />
@@ -54,13 +58,41 @@
       <option name="project" value="LOCAL" />
       <updated>1697108926167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is initial commit">
+      <option name="closed" value="true" />
+      <created>1697110179076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697110179076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is initial commit">
+      <option name="closed" value="true" />
+      <created>1697110316492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697110316492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="The use of constructor and encapsulation in java" />
     <MESSAGE value="This is initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="This is initial commit" />
   </component>

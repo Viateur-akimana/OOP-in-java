@@ -1,6 +1,13 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class User{
    private String name;
    private int age;
+   public User (String name, int age){
+       setName(name);
+       setAge(age);
+   }
 
    public void setAge( int newAge){
        this.age = newAge;
@@ -17,11 +24,12 @@ class User{
 }
 public class OOP {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        User u = new User();
-        u.setAge(30);
-        u.setName("Viateur");
-        System.out.println(u.getAge());
-        System.out.println(u.getName());
+        List<User> users = new ArrayList<User>();
+        users.add(new User("Viateur",17));
+        users.add(new User("David",29));
+        users.add(new User("Sammy",79));
+        for(int i=0; i< users.size();i++){
+            System.out.println(users.get(i).getName());
+        }
     }
 }
